@@ -179,7 +179,7 @@ class DarkThemeApp:
 
     def setup_ui(self):
         self.root.configure(bg='#333333')
-        self.root.title("ダークテーマ スクリーンショットツール")
+        self.root.title("FF14-BDS")
 
         style = ttk.Style()
         style.theme_use('clam')
