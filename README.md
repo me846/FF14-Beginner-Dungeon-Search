@@ -19,7 +19,9 @@
 このアプリケーションを使用するには、Tesseract-OCRがシステムにインストールされている必要があります。インストール方法は以下の通りです。
 
 ### Tesseract-OCRのインストール
-Tesseract-OCRは、[公式サイト](https://github.com/tesseract-ocr/tesseract)からダウンロードしてインストールしてください。インストール後、以下の環境変数を設定する必要があります。  
+Tesseract-OCRは、[公式サイト](https://github.com/tesseract-ocr/tesseract)から使用している環境に合わせてダウンロードしてください。  
+windowsの場合は、[ここ](https://github.com/UB-Mannheim/tesseract/wiki)からダウンロードしてください。  
+インストール後、以下の環境変数を設定する必要があります。  
 `C:\Program Files\Tesseract-OCR\tesseract.exe`　　
 
 ### [リリース](https://github.com/me846/FF14-Beginner-Dungeon-Search/releases/tag/FBDS)から`FF14-BDS.exe`をDLし、起動してください
