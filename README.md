@@ -22,6 +22,8 @@
 Tesseract-OCRは、[公式サイト](https://github.com/tesseract-ocr/tesseract)からダウンロードしてインストールしてください。インストール後、以下の環境変数を設定する必要があります。  
 `C:\Program Files\Tesseract-OCR\tesseract.exe`　　
 
+### [リリース](https://github.com/me846/FF14-Beginner-Dungeon-Search/releases/tag/FBDS)から`FF14-BDS.exe`をDLし、起動してください
+
 ## 注意事項
 - このアプリケーションは、特定の解像度やフォントサイズで最適に動作するように設計されています。異なる環境では、調整が必要になる場合があります。  
 - ウイルス対策ソフトウェアによっては、生成された実行ファイルが誤検出されることがあります。信頼できるソースからダウンロードした場合は、例外設定を行ってください。
